@@ -38,7 +38,6 @@
 - [2002 Cadillac Escalade ESV](https://www.gta5-mods.com/vehicles/2002-cadillac-escalade-esv-add-on)
 - [2021 Land Rover Defender](https://www.gta5-mods.com/vehicles/2021-land-rover-defender-addon-replace-dials-lods)
 - [Declasse Granger Retro LSPD Mini Pack](https://www.gta5-mods.com/vehicles/declasse-granger-retro-lspd-minipack-addon)
-- [Toyota Land Cruiser 300 2021](https://www.gta5-mods.com/vehicles/toyota-land-cruiser-300-2021-add-on)
 - [Canis Mesa](https://www.gta5-mods.com/vehicles/canis-mesa-add-on)
 - [Police Off-Road Pack](https://www.gta5-mods.com/vehicles/police-blazer-aqua-amphibious-quad-bike-add-on-template)
 
