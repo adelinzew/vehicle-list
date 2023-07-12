@@ -53,8 +53,6 @@
 - [Chevrolet Camaro SS '69](https://www.gta5-mods.com/vehicles/chevrolet-camaro-ss-69-add-on-extras-tuning-template)
 - [1969 Pontiac GTO Judge](https://www.gta5-mods.com/vehicles/1969-pontiac-gto-judge-add-on-template)
 - [Plymouth Road Runner](https://www.gta5-mods.com/vehicles/plymouth-road-runner-from-fast-and-furious-7-add-on-vehfuncs-v)
-- 
--
 
 # Motorbikes
 
