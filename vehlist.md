@@ -31,7 +31,13 @@
 - [Mazda 323GTR](https://www.gta5-mods.com/vehicles/mazda-323gtr-add-on)
 - [Mercedes-Benz 190E 2.5-16 Evolution II](https://www.gta5-mods.com/vehicles/mercedes-benz-190e-2-5-16-evolution-ii)
 - [BMW M8 Convertible 2020](https://www.gta5-mods.com/vehicles/bmw-m8-convetirbe-2020-add-on-replace)
+- [Lamborghini Revuelto 2023](https://www.gta5-mods.com/vehicles/lamborghini-revuelto-2023-add-on-replace)
+- [McLaren F1 1993](https://www.gta5-mods.com/vehicles/mclaren-f1-1993-add-on-template-extras)
+- [Lamborghini Countach 1988](https://www.gta5-mods.com/vehicles/lamborghini-countach-1988-add-on-template-extras)
+- [2010 Aston Martin One-77](https://www.gta5-mods.com/vehicles/2010-aston-martin-one-77-add-on-template)
+-
 
+  
 # SUV
 
 - [2019 Mercedes-Benz G63](https://www.gta5-mods.com/vehicles/2019-mercedes-benz-g63-addon-replace)
@@ -41,6 +47,16 @@
 - [Canis Mesa](https://www.gta5-mods.com/vehicles/canis-mesa-add-on)
 - [Police Off-Road Pack](https://www.gta5-mods.com/vehicles/police-blazer-aqua-amphibious-quad-bike-add-on-template)
 
+# Muscle Cars
+
+- [1970 Dodge Challenger R/T Hemi](https://www.gta5-mods.com/vehicles/1970-dodge-challenger-r-t-hemi-add-on-tuning-template)
+- [Chevrolet Camaro SS '69](https://www.gta5-mods.com/vehicles/chevrolet-camaro-ss-69-add-on-extras-tuning-template)
+- [1969 Pontiac GTO Judge](https://www.gta5-mods.com/vehicles/1969-pontiac-gto-judge-add-on-template)
+- [Plymouth Road Runner](https://www.gta5-mods.com/vehicles/plymouth-road-runner-from-fast-and-furious-7-add-on-vehfuncs-v)
+- 
+-
+
 # Motorbikes
 
 - [100 Bikes Add-On](https://www.gta5-mods.com/vehicles/zbike-add-on-55-bikes-compilation-pack)
+- [Ducati Panigale V4](https://www.gta5-mods.com/vehicles/ducati-panigale-v4-pack-add-on-tuning-liveries)
