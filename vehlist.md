@@ -35,6 +35,7 @@
 - [McLaren F1 1993](https://www.gta5-mods.com/vehicles/mclaren-f1-1993-add-on-template-extras)
 - [Lamborghini Countach 1988](https://www.gta5-mods.com/vehicles/lamborghini-countach-1988-add-on-template-extras)
 - [2010 Aston Martin One-77](https://www.gta5-mods.com/vehicles/2010-aston-martin-one-77-add-on-template)
+- [Volkswagen Golf Mk1 ''Rabbit''](https://www.gta5-mods.com/vehicles/volskwagen-golf-mk1-rabitt-addon-replace)
 
 
   
@@ -53,6 +54,7 @@
 - [Chevrolet Camaro SS '69](https://www.gta5-mods.com/vehicles/chevrolet-camaro-ss-69-add-on-extras-tuning-template)
 - [1969 Pontiac GTO Judge](https://www.gta5-mods.com/vehicles/1969-pontiac-gto-judge-add-on-template)
 - [Plymouth Road Runner](https://www.gta5-mods.com/vehicles/plymouth-road-runner-from-fast-and-furious-7-add-on-vehfuncs-v)
+- [1967 Ford Mustang Fastback](https://www.gta5-mods.com/vehicles/1967-ford-mustang-fastback-add-on)
 
 # Motorbikes
 
