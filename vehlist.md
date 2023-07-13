@@ -36,7 +36,8 @@
 - [Lamborghini Countach 1988](https://www.gta5-mods.com/vehicles/lamborghini-countach-1988-add-on-template-extras)
 - [2010 Aston Martin One-77](https://www.gta5-mods.com/vehicles/2010-aston-martin-one-77-add-on-template)
 - [Volkswagen Golf Mk1 ''Rabbit''](https://www.gta5-mods.com/vehicles/volskwagen-golf-mk1-rabitt-addon-replace)
-
+- [2018 Ferrari 812 Superfast](https://www.gta5-mods.com/vehicles/ferrari-812-superfast)
+- [Lamborghini Centenario Roadster LP 770-4](https://www.gta5-mods.com/vehicles/lamborghini-centenario-roadster)
 
   
 # SUV
@@ -47,6 +48,28 @@
 - [Declasse Granger Retro LSPD Mini Pack](https://www.gta5-mods.com/vehicles/declasse-granger-retro-lspd-minipack-addon)
 - [Canis Mesa](https://www.gta5-mods.com/vehicles/canis-mesa-add-on)
 - [Police Off-Road Pack](https://www.gta5-mods.com/vehicles/police-blazer-aqua-amphibious-quad-bike-add-on-template)
+
+# Classic Cars
+
+-[Classic Cars Pack](https://www.gta5-mods.com/vehicles/classic-cars-pack-vol-2)
+
+1.[1948 Chevrolet Fleetmaster Woody Kustom]
+2.[1948 Packard Standard Eight]
+3.[1948 Packard Standard Eight] (Police)
+4.[1957 Cadillac Eldorado Brougham]
+5.[1957 Cadillac Eldorado Brougham] (Rusty)
+6.[1957 Dodge Custom Royal Lancer]
+7.[1957 Plymouth Belvedere]
+8.[1958 Pontiac Bonneville]
+9.[1964 Ford Fairlane 500]
+10.[1964 Mercedes-Benz 220s W111]
+11.[1964 Mercury Marauder Parklane]
+12.[1971 Dodge Charger Superbee]
+13.[1972 Cadillac Fleetwood 60 Special Brougham]
+14.[1972 Lincoln Continental Mark IV]
+15.[1978 Cadillac Fleetwood Brougham D'elegance]
+16.[1978 Cadillac Fleetwood Brougham D'elegance Lowrider]
+17.[1988 Chrysler New Yorker]
 
 # Muscle Cars
 
