@@ -224,6 +224,12 @@
 99. [Barc-Speeder Star Wars]
   
 - [Ducati Panigale V4](https://www.gta5-mods.com/vehicles/ducati-panigale-v4-pack-add-on-tuning-liveries)
+  1. [2018 Ducati Panigale V4]
+  2. [2018 Ducati Panigale V4-S]
+  3. [2019 Ducati Panigale V4-R]
+  4. [2020 Ducati Panigale V4 Superleggera]
+  5. [2021 Ducati Panigale V4 SP]
+     
 - [MotoGP 2021 Pack](https://www.gta5-mods.com/vehicles/motogp-2021-pack-add-on-tuning-liveries)
 
 1. [GP YZR M1 21]
