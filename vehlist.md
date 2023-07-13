@@ -99,3 +99,14 @@
 
 - [100 Bikes Add-On](https://www.gta5-mods.com/vehicles/zbike-add-on-55-bikes-compilation-pack)
 - [Ducati Panigale V4](https://www.gta5-mods.com/vehicles/ducati-panigale-v4-pack-add-on-tuning-liveries)
+- [MotoGP 2021 Pack](https://www.gta5-mods.com/vehicles/motogp-2021-pack-add-on-tuning-liveries)
+
+1. [GP YZR M1 21]
+2. [GP YZR M1 19]
+3. [GP RC213V REPSOL]
+4. [GP RC213V LCR]
+5. [GP GSXRR]
+6. [GP DEMOSIDICI 21]
+7. [GP DEMOSIDICI 19]
+8. [GP RC16]
+9. [GP RSGP]
