@@ -38,6 +38,7 @@
 - [Volkswagen Golf Mk1 ''Rabbit''](https://www.gta5-mods.com/vehicles/volskwagen-golf-mk1-rabitt-addon-replace)
 - [2018 Ferrari 812 Superfast](https://www.gta5-mods.com/vehicles/ferrari-812-superfast)
 - [Lamborghini Centenario Roadster LP 770-4](https://www.gta5-mods.com/vehicles/lamborghini-centenario-roadster)
+- [BMW E30 Touring](https://www.gta5-mods.com/vehicles/bmw-e30-touring)
 
 - [RealCars03 DLC car pack](https://www.gta5-mods.com/vehicles/realcars03-dlc-from-gtav-mods-as-new-addon)
 1. [Pagani Zonda Cinque Roadster]
