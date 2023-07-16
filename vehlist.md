@@ -5,7 +5,6 @@
 
 # Sport Cars
 
-- [Saleen S7 2004](https://www.gta5-mods.com/vehicles/saleen-s7-2004-add-on)
 - [1999 Lotus Elise Sport 190](https://www.gta5-mods.com/vehicles/1999-lotus-elise-sport-190-add-on-extras-template-lods-vehfuncs-cipherog)
 - [Nissan GTR Fast R32 Drag](https://www.gta5-mods.com/vehicles/nissan-gtr-fast-r32-drag-addon-fivem)
 - [Ford GT40 Mk I '64](https://www.gta5-mods.com/vehicles/ford-gt40-mk-i-64-add-on-template-extras)
