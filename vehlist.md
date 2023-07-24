@@ -12,6 +12,12 @@
 - [BMW M3 E30 1990](https://www.gta5-mods.com/vehicles/bmw-m3-e30-1990-add-on-tuning-template)
 - [2023 BMW M2 Coupe](https://www.gta5-mods.com/vehicles/2023-bmw-m2-coupe-addon-fivem)
 - [Need for Speed Classic's Pack](https://www.gta5-mods.com/vehicles/need-for-speed-classic-s-pack-addon-tuning-devildexter23)
+1. [Rachel's Nissan 350z]
+2. [Eddie's Nissan Skyline GT-R 34]
+3. [Audi R8 Darius]
+4. [BMW M3 GTR E46]
+5. [Ford Mustang]
+
 - [BMW 750Li 2009](https://www.gta5-mods.com/vehicles/bmw-750li-2009)
 - [2015 Nissan GTR Nismo](https://www.gta5-mods.com/vehicles/2015-nissan-gtr-nismo-yca-y97y)
 - [Mitsubishi Lancer Evolution IX 2005](https://www.gta5-mods.com/vehicles/mitsubishi-lancer-evolution-ix-2005-add-on-tuning-template-fivem-rhd)
