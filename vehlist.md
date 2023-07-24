@@ -129,3 +129,8 @@
 
 # Car Packs
 - [Need for Speed Classic's Pack](https://www.gta5-mods.com/vehicles/need-for-speed-classic-s-pack-addon-tuning-devildexter23)
+1. [Rachel's Nissan 350z]
+2. [Eddie's Nissan Skyline GT-R 34]
+3. [Audi R8 Darius]
+4. [BMW M3 GTR E46]
+5. [Ford Mustang]
