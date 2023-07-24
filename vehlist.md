@@ -11,7 +11,7 @@
 - [Mitsubishi Evolution IX Voltex](https://www.gta5-mods.com/vehicles/mitsubishi-evolution-ix-voltex-add-on-fivem-extras-template)
 - [BMW M3 E30 1990](https://www.gta5-mods.com/vehicles/bmw-m3-e30-1990-add-on-tuning-template)
 - [2023 BMW M2 Coupe](https://www.gta5-mods.com/vehicles/2023-bmw-m2-coupe-addon-fivem)
-- [Need for Speed Classic's Pack](https://www.gta5-mods.com/vehicles/need-for-speed-classic-s-pack-addon-tuning-devildexter23)
+- [Need for Speed Classic's Pack]
 1. [Rachel's Nissan 350z]
 2. [Eddie's Nissan Skyline GT-R 34]
 3. [Audi R8 Darius]
@@ -126,3 +126,6 @@
 - [1969 Pontiac GTO Judge](https://www.gta5-mods.com/vehicles/1969-pontiac-gto-judge-add-on-template)
 - [Plymouth Road Runner](https://www.gta5-mods.com/vehicles/plymouth-road-runner-from-fast-and-furious-7-add-on-vehfuncs-v)
 - [1967 Ford Mustang Fastback](https://www.gta5-mods.com/vehicles/1967-ford-mustang-fastback-add-on)
+
+# Car Packs
+- [Need for Speed Classic's Pack](https://www.gta5-mods.com/vehicles/need-for-speed-classic-s-pack-addon-tuning-devildexter23)
