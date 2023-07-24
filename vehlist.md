@@ -78,14 +78,14 @@
 7. [Toyota GT-86]
 8. [Bugatti Veyron - Grand Sport]
 
--[YCA Addon Car Pack](https://www.gtainside.com/en/gta5/cars/79003-yca-addon-car-pack-2013-camaro-zl1/)
+- [YCA Addon Car Pack](https://www.gtainside.com/en/gta5/cars/79003-yca-addon-car-pack-2013-camaro-zl1/)
 1. [2013 Chevrolet Camaro ZL1]
 2. [2012 Lamborghini Aventador]
 3. [2013 Ferrarri LaFerrari]
 4. [2014 McLaren P1]
 5. [2015 Nissan GTR Nismo]
 
--[DragoN777 Add-On Car Pack](https://www.gta5-mods.com/vehicles/dragon777-add-on-car-pack)
+- [DragoN777 Add-On Car Pack](https://www.gta5-mods.com/vehicles/dragon777-add-on-car-pack)
 1. [Mercedes-Benz 500E(W124)] 
 2. [Mercedes-Benz 600 SEL (W140)]
 3. [Audi A8]
@@ -102,7 +102,7 @@
 14. [Suzuki Grand Vitara]
 15. [Toyota RAV4 (XA20)]
     
--[RealCars02 DLC Car Pack](https://www.gta5-mods.com/vehicles/realcars02-dlc-car-pack-from-gta5-mods-new-addon)
+- [RealCars02 DLC Car Pack](https://www.gta5-mods.com/vehicles/realcars02-dlc-car-pack-from-gta5-mods-new-addon)
 1. [Lamborghini Aventador LP700-4]
 2. [2014 McLaren P1]
 3. [1970 Dodge Challenger RT 440]
