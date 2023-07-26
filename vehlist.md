@@ -37,7 +37,17 @@
 - [2018 Ferrari 812 Superfast](https://www.gta5-mods.com/vehicles/ferrari-812-superfast)
 - [Lamborghini Centenario Roadster LP 770-4](https://www.gta5-mods.com/vehicles/lamborghini-centenario-roadster)
 - [BMW E30 Touring](https://www.gta5-mods.com/vehicles/bmw-e30-touring)
-
+- [Audi RS5](https://www.gta5-mods.com/vehicles/audi-rs5-adon-fivem)
+- [Maserati Levante Novitec](https://www.gta5-mods.com/vehicles/maserati-levante-novitec-add-on)
+- [Audi Q8 50TDI 2020](https://www.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem)
+- [Toyota Supra MKIV Tuned](https://www.gta5-mods.com/vehicles/toyota-supra-mkiv-tuned-add-on-tuning)
+- [Nissan GT-R Nismo](https://www.gta5-mods.com/vehicles/nissan-gt-r-nismo-add-on-tuning)
+- [Lamborghini Gallardo LP570-4 Superleggera](https://www.gta5-mods.com/vehicles/lamborghini-gallardo-lp570-4-superleggera-add-on-tunable)
+- [2021 Bugatti Super Sport 300+](https://www.gta5-mods.com/vehicles/2021-bugatti-supersport-300-add-on)
+- [2021 Audi RS7 (C8) Sportback](https://www.gta5-mods.com/vehicles/2021-audi-rs7-c8-sportback)
+- [TopCar G63 INFERNO](https://www.gta5-mods.com/vehicles/2019-topcar-g63-inferno)
+- [2022 Lamborghini Countach LPI800-4](https://www.gta5-mods.com/vehicles/2022-lamborghini-countach-lpi800-4-add-on-vehfuncs-v)
+- [2021 Audi RS6-R ABT](https://www.gta5-mods.com/vehicles/2021-audi-rs6-r-abt)
 
 # SUV
 
