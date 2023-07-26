@@ -48,6 +48,17 @@
 - [TopCar G63 INFERNO](https://www.gta5-mods.com/vehicles/2019-topcar-g63-inferno)
 - [2022 Lamborghini Countach LPI800-4](https://www.gta5-mods.com/vehicles/2022-lamborghini-countach-lpi800-4-add-on-vehfuncs-v)
 - [2021 Audi RS6-R ABT](https://www.gta5-mods.com/vehicles/2021-audi-rs6-r-abt)
+- [2018 Lamborghini Huracan](https://www.gta5-mods.com/vehicles/2018-lamborghini-huracan-performante-add-on-replace)
+- [2015 Lamborghini Aventador LP700-4](https://www.gta5-mods.com/vehicles/2015-lamborghini-aventador-lp700-4-stock-interior-color-hq-animated-engine-livery-tunable-autospoiler)
+- [Noble M600 2010](https://www.gta5-mods.com/vehicles/noble-m600-2010-add-on-animated-template-tuning)
+- [2017 McLaren 720S](https://www.gta5-mods.com/vehicles/2017-mclaren-720s-add-on-tuning-hq)
+- [2020 Koenigsegg Jesko](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-engine)
+- [Lamborghini Diablo SV 1995-2001](https://www.gta5-mods.com/vehicles/lamborghini-diablo-sv-1995-2001-add-on-template-extras)
+- [2018 Pagani Huayra Roadster](https://www.gta5-mods.com/vehicles/2018-pagani-huayra-roadster-aero-flaps-add-on)
+- [2010 Lexus LFA](https://www.gta5-mods.com/vehicles/2010-lexus-lfa)
+- [2020 Ferrari SF90 Stradale](https://www.gta5-mods.com/vehicles/2020-ferrari-sf90-stradale-add-on-lods-template)
+- [Bugatti Veyron Vitesse](https://www.gta5-mods.com/vehicles/bugatti-veyron-vitesse-add-on-autospoiler-tuning-wheels-extras-template)
+- [2010 Lamborghini Murcielago LP670-4](https://www.gta5-mods.com/vehicles/2010-lamborghini-murcielago-lp670-4)
 
 # SUV
 
@@ -58,7 +69,10 @@
 
 
 # Classic Cars
-
+- [1970 Chevrolet Camaro Z28](https://www.gta5-mods.com/vehicles/chevrolet-camaro-z28-70-add-on)
+- [1978 Cadillac Fleetwood Brougham D'elegance](https://www.gta5-mods.com/vehicles/1978-cadillac-fleetwood-brougham-d-elegance-add-on-tuning-wheels-template)
+- [1976 Lamborghini Jarama](https://www.gta5-mods.com/vehicles/lamborghini-jarama-76-add-on-animated-lights-extras-dirt)
+- [Ferrari Testarossa 1986](https://www.gta5-mods.com/vehicles/ferrari-testarossa-1986-add-on)
 
 
 # Muscle Cars
