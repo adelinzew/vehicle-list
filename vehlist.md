@@ -62,7 +62,7 @@
 - [2015 Ferrari LaFerrari](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler)
 - [2015 Koenigsegg Agera One:1](https://www.gta5-mods.com/vehicles/2014-koenigsegg-agera-r-hq-digitaldials-one-1-tuning-set)
 - [2015 Lamborghini Aventador LP700-4](https://www.gta5-mods.com/vehicles/2015-lamborghini-aventador-lp700-4-stock-interior-color-hq-animated-engine-livery-tunable-autospoiler)
-- [Nissan Skyline GT-R (R34) [drift handling](https://www.gta5-mods.com/vehicles/2002-nissan-skyline-gt-r-r34)
+- [Nissan Skyline GT-R (R34) drift handling](https://www.gta5-mods.com/vehicles/2002-nissan-skyline-gt-r-r34)
 - [BMW M3 GTR E46 drift handling](https://www.gta5-mods.com/vehicles/bmw-m3-gtr-e46-most-wanted)
 - [Mitsubishi Lancer Evolution IX drift handling](https://www.gta5-mods.com/vehicles/mitsubishi-lancer-evolution-ix)
 - [Stanced Nissan S15 drift handling](https://www.gta5-mods.com/vehicles/wide-camber-low-s15)
