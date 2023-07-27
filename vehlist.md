@@ -59,6 +59,9 @@
 - [2020 Ferrari SF90 Stradale](https://www.gta5-mods.com/vehicles/2020-ferrari-sf90-stradale-add-on-lods-template)
 - [Bugatti Veyron Vitesse](https://www.gta5-mods.com/vehicles/bugatti-veyron-vitesse-add-on-autospoiler-tuning-wheels-extras-template)
 - [2010 Lamborghini Murcielago LP670-4](https://www.gta5-mods.com/vehicles/2010-lamborghini-murcielago-lp670-4)
+- [2015 Ferrari LaFerrari](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler)
+- [2015 Koenigsegg Agera One:1](https://www.gta5-mods.com/vehicles/2014-koenigsegg-agera-r-hq-digitaldials-one-1-tuning-set)
+- [2015 Lamborghini Aventador LP700-4](https://www.gta5-mods.com/vehicles/2015-lamborghini-aventador-lp700-4-stock-interior-color-hq-animated-engine-livery-tunable-autospoiler)
 
 # SUV
 
@@ -66,6 +69,7 @@
 - [2002 Cadillac Escalade ESV](https://www.gta5-mods.com/vehicles/2002-cadillac-escalade-esv-add-on)
 - [2021 Land Rover Defender](https://www.gta5-mods.com/vehicles/2021-land-rover-defender-addon-replace-dials-lods)
 - [Canis Mesa](https://www.gta5-mods.com/vehicles/canis-mesa-add-on)
+- [2017 Ford Raptor](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning)
 
 
 # Classic Cars
@@ -73,7 +77,7 @@
 - [1978 Cadillac Fleetwood Brougham D'elegance](https://www.gta5-mods.com/vehicles/1978-cadillac-fleetwood-brougham-d-elegance-add-on-tuning-wheels-template)
 - [1976 Lamborghini Jarama](https://www.gta5-mods.com/vehicles/lamborghini-jarama-76-add-on-animated-lights-extras-dirt)
 - [Ferrari Testarossa 1986](https://www.gta5-mods.com/vehicles/ferrari-testarossa-1986-add-on)
-
+- [1987 Ferrari F120 (F-40)](https://www.gta5-mods.com/vehicles/1987-ferrari-f120-f-40-eu-spec-hq-lods-animations)
 
 # Muscle Cars
 
@@ -82,6 +86,7 @@
 - [1969 Pontiac GTO Judge](https://www.gta5-mods.com/vehicles/1969-pontiac-gto-judge-add-on-template)
 - [Plymouth Road Runner](https://www.gta5-mods.com/vehicles/plymouth-road-runner-from-fast-and-furious-7-add-on-vehfuncs-v)
 - [1967 Ford Mustang Fastback](https://www.gta5-mods.com/vehicles/1967-ford-mustang-fastback-add-on)
+- [2015 Ford Mustang](https://www.gta5-mods.com/vehicles/2015-ford-mustang-hq-wbody-kit-shelbykit-animated)
 
 # Car Packs
 
