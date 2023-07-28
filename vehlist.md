@@ -75,7 +75,31 @@
 - [Nissan 240SX drift handling](https://www.gta5-mods.com/vehicles/nissan-240sx-tunable)
 - [Nissan Silvia S13 drift handling](https://www.gta5-mods.com/vehicles/nissan-240sx-s13)
 - [Ford Mustang GT drift handling](https://www.gta5-mods.com/vehicles/ford-mustang-gt-rocketb-wide-body)
-
+- [Audi Quattro Sport 1983](https://pt.gta5-mods.com/vehicles/audi-quattro-sport-83-lods-template-add-on-tuning)
+- [BMW M2 F87 2016](https://pt.gta5-mods.com/vehicles/bmw-m2-f22-2016-add-on-tuning)
+- [2014 BMW M4 F82](https://pt.gta5-mods.com/vehicles/2014-bmw-m4-f82-varis-kit)
+- [BMW M3 E92 2010](https://pt.gta5-mods.com/vehicles/bmw-m3-e92-2010-v1-0)
+- [BMW M3 E46 2005](https://pt.gta5-mods.com/vehicles/bmw-m3-e46-2005)
+- [2009 Ford Focus RS](https://pt.gta5-mods.com/vehicles/2009-ford-focus-rs-add-on-rhd-template)
+- [Ford Focus RS 2017](https://pt.gta5-mods.com/vehicles/ford-focus-rs-2017-add-on-replace-tuning-template-multi-livery)
+- [Mazda MX-5 Miata](https://pt.gta5-mods.com/vehicles/1994-mazda-mx-5-miata-na6c)
+- [2017 Mercedes-AMG A45 W176](https://pt.gta5-mods.com/vehicles/mercedes-amg-a45-2017)
+- [Mercedes Benz AMG C 63 S Coupe 2016](https://pt.gta5-mods.com/vehicles/mercedes-benz-amg-c-63-s-coupe-2016-1-0)
+- [2013 Mercedes-AMG C63](https://pt.gta5-mods.com/vehicles/2013-mercedes-amg-c63-w204-facelift-add-on-black-series-brabus-tuning)
+- [Subaru Impreza WRX STI 2004](https://pt.gta5-mods.com/vehicles/subaru-impreza-wrx-sti-2004-add-on-tuning)
+- [1998 Volkswagen Golf MK3 GTI VR6](https://pt.gta5-mods.com/vehicles/1998-volkswagen-golf-mk3-gti-vr6-add-on)
+- [2015 Alfa Romeo 4c Spider](https://www.gta5-mods.com/vehicles/2015-alfa-romeo-4c-spider-add-on)
+- [Alfa Romeo 8C Competizione 2008](https://www.gta5-mods.com/vehicles/alfa-romeo-8c-competizione-2008-add-on-lods-extras-template)
+- [Alfa Romeo Giulia Quadrifoglio 2017](https://www.gta5-mods.com/vehicles/alfa-romeo-giulia-quadrifoglio-170)
+- [2017 Bentley Bentayga](https://www.gta5-mods.com/vehicles/2017-bentley-bentayga-add-on-tuning-analog-digital-dials)
+- [Bentley Continental GT 2018](https://www.gta5-mods.com/vehicles/bentley-continental-gt-2018-1-0-replace-addon)
+- [2016 SRT Viper ACR](https://www.gta5-mods.com/vehicles/2014-srt-viper-t-a)
+- [2017 Koenigsegg Agera RS](https://www.gta5-mods.com/vehicles/2017-koenigsegg-agera-rs-add-on)
+- [2020 Koenigsegg Jesko](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-engine)
+- [2016 McLaren 675LT Coupe](https://www.gta5-mods.com/vehicles/2016-mclaren-675lt-coupe-zen-imogen-zenzoit-ngr_ardiansyah)
+- [2016 Mclaren 675LT Spider](https://www.gta5-mods.com/vehicles/2016-mclaren-675lt-spider-automatic-convertible)
+- [2019 McLaren 720S Spider](https://www.gta5-mods.com/vehicles/2019-mclaren-720s-spider-add-on-fivem-tuning)
+- [Pagani Imola](https://www.gta5-mods.com/vehicles/pagani-imola-add-on-tuning)
 
 # SUV
 
@@ -92,6 +116,7 @@
 - [1976 Lamborghini Jarama](https://www.gta5-mods.com/vehicles/lamborghini-jarama-76-add-on-animated-lights-extras-dirt)
 - [Ferrari Testarossa 1986](https://www.gta5-mods.com/vehicles/ferrari-testarossa-1986-add-on)
 - [1987 Ferrari F120 (F-40)](https://www.gta5-mods.com/vehicles/1987-ferrari-f120-f-40-eu-spec-hq-lods-animations)
+- [1976 Lamborghini Jarama](https://www.gta5-mods.com/vehicles/lamborghini-jarama-76-add-on-animated-lights-extras-dirt)
 
 # Muscle Cars
 
@@ -101,15 +126,21 @@
 - [Plymouth Road Runner](https://www.gta5-mods.com/vehicles/plymouth-road-runner-from-fast-and-furious-7-add-on-vehfuncs-v)
 - [1967 Ford Mustang Fastback](https://www.gta5-mods.com/vehicles/1967-ford-mustang-fastback-add-on)
 - [2015 Ford Mustang](https://www.gta5-mods.com/vehicles/2015-ford-mustang-hq-wbody-kit-shelbykit-animated)
+- [Chevrolet Monza Classic 1990](https://pt.gta5-mods.com/vehicles/chevrolet-monza-sl-e-1990)
+- [1993 Ford SVT Cobra R](https://pt.gta5-mods.com/vehicles/1993-ford-svt-cobra-r)
+- [1989 Lotus Carlton](https://www.gta5-mods.com/vehicles/dtd-1989-lotus-carlton-add-on)
+- [2018 Dodge Challenger SRT Demon](https://www.gta5-mods.com/vehicles/2018-dodge-challenger-srt-demon-libertywalk-add-on)
+- [2016 Dodge Charger SRT Hellcat](https://www.gta5-mods.com/vehicles/2016-dodge-charger-srt-hellcat-add-on-replace-animated-template-analog-digital-dials)
+- [2020 Dodge Charger SRT Hellcat Daytona](https://www.gta5-mods.com/vehicles/2020-dodge-charger-srt-hellcat-daytona-50th-anniversary-edition-add-on)
 
 # Car Packs
 
-- [Need for Speed Classic's Pack](https://www.gta5-mods.com/vehicles/need-for-speed-classic-s-pack-addon-tuning-devildexter23)
-- [RealCars03 DLC car pack](https://www.gta5-mods.com/vehicles/realcars03-dlc-from-gtav-mods-as-new-addon)
-- [YCA Addon Car Pack](https://www.gtainside.com/en/gta5/cars/79003-yca-addon-car-pack-2013-camaro-zl1/)
-- [DragoN777 Add-On Car Pack](https://www.gta5-mods.com/vehicles/dragon777-add-on-car-pack)
-- [RealCars02 DLC Car Pack](https://www.gta5-mods.com/vehicles/realcars02-dlc-car-pack-from-gta5-mods-new-addon)
-- [Classic Cars Pack](https://www.gta5-mods.com/vehicles/classic-cars-pack-vol-2)
-- [Ubludock Car Pack 50 Add-Ons](https://www.gta5-mods.com/vehicles/ubludock-vehicles-pack-add-on)
-- [Declasse Granger Retro LSPD Mini Pack](https://www.gta5-mods.com/vehicles/declasse-granger-retro-lspd-minipack-addon)
-- [Police Off-Road Pack](https://www.gta5-mods.com/vehicles/police-blazer-aqua-amphibious-quad-bike-add-on-template)
+- [Need for Speed Classic's Pack](https://www.gta5-mods.com/vehicles/need-for-speed-classic-s-pack-addon-tuning-devildexter23) [5 cars]
+- [RealCars03 DLC car pack](https://www.gta5-mods.com/vehicles/realcars03-dlc-from-gtav-mods-as-new-addon) [8 cars]
+- [YCA Addon Car Pack](https://www.gtainside.com/en/gta5/cars/79003-yca-addon-car-pack-2013-camaro-zl1/) [5 cars]
+- [DragoN777 Add-On Car Pack](https://www.gta5-mods.com/vehicles/dragon777-add-on-car-pack) [15 cars]
+- [RealCars02 DLC Car Pack](https://www.gta5-mods.com/vehicles/realcars02-dlc-car-pack-from-gta5-mods-new-addon) [8 cars]
+- [Classic Cars Pack](https://www.gta5-mods.com/vehicles/classic-cars-pack-vol-2) [17 cars]
+- [Ubludock Car Pack 50 Add-Ons](https://www.gta5-mods.com/vehicles/ubludock-vehicles-pack-add-on) [50 cars]
+- [Declasse Granger Retro LSPD Mini Pack](https://www.gta5-mods.com/vehicles/declasse-granger-retro-lspd-minipack-addon) [5 cars]
+- [Classic Cars Pack Vol-1](https://www.gta5-mods.com/vehicles/greenaid-s-classic-cars-pack-add-on) [57 cars]
