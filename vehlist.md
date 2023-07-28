@@ -142,5 +142,4 @@
 - [RealCars02 DLC Car Pack](https://www.gta5-mods.com/vehicles/realcars02-dlc-car-pack-from-gta5-mods-new-addon) [8 cars]
 - [Classic Cars Pack](https://www.gta5-mods.com/vehicles/classic-cars-pack-vol-2) [17 cars]
 - [Ubludock Car Pack 50 Add-Ons](https://www.gta5-mods.com/vehicles/ubludock-vehicles-pack-add-on) [50 cars]
-- [Declasse Granger Retro LSPD Mini Pack](https://www.gta5-mods.com/vehicles/declasse-granger-retro-lspd-minipack-addon) [5 cars]
 - [Classic Cars Pack Vol-1](https://www.gta5-mods.com/vehicles/greenaid-s-classic-cars-pack-add-on) [57 cars]
