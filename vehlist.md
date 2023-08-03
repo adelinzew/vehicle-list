@@ -143,3 +143,4 @@
 - [Classic Cars Pack](https://www.gta5-mods.com/vehicles/classic-cars-pack-vol-2) [17 cars]
 - [Ubludock Car Pack 50 Add-Ons](https://www.gta5-mods.com/vehicles/ubludock-vehicles-pack-add-on) [50 cars]
 - [Classic Cars Pack Vol-1](https://www.gta5-mods.com/vehicles/greenaid-s-classic-cars-pack-add-on) [57 cars]
+- [Motokorp's Experimental Car Pack](https://www.gtainside.com/en/gta5/cars/147659-motokorp-s-experimental-car-pack-add-on/) [12 cars] 
