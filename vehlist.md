@@ -3,7 +3,7 @@
 -->
 
 
-# Sport Cars
+# Sport Cars (95 cars)
 
 - [1999 Lotus Elise Sport 190](https://www.gta5-mods.com/vehicles/1999-lotus-elise-sport-190-add-on-extras-template-lods-vehfuncs-cipherog)
 - [Nissan GTR Fast R32 Drag](https://www.gta5-mods.com/vehicles/nissan-gtr-fast-r32-drag-addon-fivem)
@@ -101,7 +101,7 @@
 - [2019 McLaren 720S Spider](https://www.gta5-mods.com/vehicles/2019-mclaren-720s-spider-add-on-fivem-tuning)
 - [Pagani Imola](https://www.gta5-mods.com/vehicles/pagani-imola-add-on-tuning)
 
-# SUV
+# SUV (5 cars)
 
 - [2019 Mercedes-Benz G63](https://www.gta5-mods.com/vehicles/2019-mercedes-benz-g63-addon-replace)
 - [2002 Cadillac Escalade ESV](https://www.gta5-mods.com/vehicles/2002-cadillac-escalade-esv-add-on)
@@ -110,7 +110,7 @@
 - [2017 Ford Raptor](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning)
 
 
-# Classic Cars
+# Classic Cars (6 cars)
 - [1970 Chevrolet Camaro Z28](https://www.gta5-mods.com/vehicles/chevrolet-camaro-z28-70-add-on)
 - [1978 Cadillac Fleetwood Brougham D'elegance](https://www.gta5-mods.com/vehicles/1978-cadillac-fleetwood-brougham-d-elegance-add-on-tuning-wheels-template)
 - [1976 Lamborghini Jarama](https://www.gta5-mods.com/vehicles/lamborghini-jarama-76-add-on-animated-lights-extras-dirt)
@@ -118,7 +118,7 @@
 - [1987 Ferrari F120 (F-40)](https://www.gta5-mods.com/vehicles/1987-ferrari-f120-f-40-eu-spec-hq-lods-animations)
 - [1976 Lamborghini Jarama](https://www.gta5-mods.com/vehicles/lamborghini-jarama-76-add-on-animated-lights-extras-dirt)
 
-# Muscle Cars
+# Muscle Cars (12 cars)
 
 - [1970 Dodge Challenger R/T Hemi](https://www.gta5-mods.com/vehicles/1970-dodge-challenger-r-t-hemi-add-on-tuning-template)
 - [Chevrolet Camaro SS '69](https://www.gta5-mods.com/vehicles/chevrolet-camaro-ss-69-add-on-extras-tuning-template)
@@ -133,7 +133,7 @@
 - [2016 Dodge Charger SRT Hellcat](https://www.gta5-mods.com/vehicles/2016-dodge-charger-srt-hellcat-add-on-replace-animated-template-analog-digital-dials)
 - [2020 Dodge Charger SRT Hellcat Daytona](https://www.gta5-mods.com/vehicles/2020-dodge-charger-srt-hellcat-daytona-50th-anniversary-edition-add-on)
 
-# Car Packs
+# Car Packs (165 cars)
 
 - [Need for Speed Classic's Pack](https://www.gta5-mods.com/vehicles/need-for-speed-classic-s-pack-addon-tuning-devildexter23) [5 cars]
 - [RealCars03 DLC car pack](https://www.gta5-mods.com/vehicles/realcars03-dlc-from-gtav-mods-as-new-addon) [8 cars]
