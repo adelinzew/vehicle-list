@@ -1,9 +1,9 @@
 <!-- Example:
-  - [Mod name](link-to-mod)
+  - [Mod name](link-to-mod)corrado
 -->
 
 
-# Sport Cars (95 cars)
+# Sport Cars (106 cars)
 
 - [1999 Lotus Elise Sport 190](https://www.gta5-mods.com/vehicles/1999-lotus-elise-sport-190-add-on-extras-template-lods-vehfuncs-cipherog)
 - [Nissan GTR Fast R32 Drag](https://www.gta5-mods.com/vehicles/nissan-gtr-fast-r32-drag-addon-fivem)
@@ -100,25 +100,55 @@
 - [2016 Mclaren 675LT Spider](https://www.gta5-mods.com/vehicles/2016-mclaren-675lt-spider-automatic-convertible)
 - [2019 McLaren 720S Spider](https://www.gta5-mods.com/vehicles/2019-mclaren-720s-spider-add-on-fivem-tuning)
 - [Pagani Imola](https://www.gta5-mods.com/vehicles/pagani-imola-add-on-tuning)
+- [Audi RS5 Coupe 2020](https://www.gta5-mods.com/vehicles/audi-rs5-coupe-20)
+- [2019 Audi RS4 Avant Add-On | FiveM | Tuning](https://www.gta5-mods.com/vehicles/2019-audi-rs4-avant-add-on-tuning-dmtrs)
+- [Saleen S7 2004 Add-On](https://www.gta5-mods.com/vehicles/saleen-s7-2004-add-on)
+- [2020 Ferrari Roma Add-On](https://www.gta5-mods.com/vehicles/2020-ferrari-roma-add-on-harsoul-mods)
+- [2005 Mercedes-Benz SLR McLaren Add-On | Template | Extras](https://www.gta5-mods.com/vehicles/2005-mercedes-benz-slr-mclaren-add-on-template-extras)
+- [1995 Ferrari F50 Add-On | VehFuncs V | Extras | Template](https://www.gta5-mods.com/vehicles/ferrari-f50-95-add-on-extras-template)
+- [Ford Mustang SVT Cobra R 2000 Add-On | Extras | Template](https://www.gta5-mods.com/vehicles/ford-mustang-svt-cobra-r-2000-add-on-extras-template)
+- [Mercedes-Benz SL63 AMG 2023 Add-On / Replace](https://www.gta5-mods.com/vehicles/mercedes-sl63-amg-2023-add-on-replace)
+- [Pagani Zonda Cinque 2009 Add-On](https://www.gta5-mods.com/vehicles/pagani-zonda-cinque-09-m-add-on-engine)
+- [2010 Ferrari 458 Italia Add-On | Tuning | Extras | Template](https://www.gta5-mods.com/vehicles/2010-ferrari-458-italia-add-on-tuning-extras-template)
+- [Volkswagen Corrado VR6](https://www.gta5-mods.com/vehicles/volkswagen-corrado-vr6)
 
-# SUV (5 cars)
+
+# SUV (12 cars)
 
 - [2019 Mercedes-Benz G63](https://www.gta5-mods.com/vehicles/2019-mercedes-benz-g63-addon-replace)
 - [2002 Cadillac Escalade ESV](https://www.gta5-mods.com/vehicles/2002-cadillac-escalade-esv-add-on)
-- [2021 Land Rover Defender](https://www.gta5-mods.com/vehicles/2021-land-rover-defender-addon-replace-dials-lods)
-- [Canis Mesa](https://www.gta5-mods.com/vehicles/canis-mesa-add-on)
+- [2021 Land Rover Defender](https://www.gta5-mods.com/vehicles/2021-land-rover-defender-addon-replace-dials-lods) 
 - [2017 Ford Raptor](https://www.gta5-mods.com/vehicles/2017-ford-raptor-hq-rigged-suspension-multi-dirt-animated-engine-tuning)
+- [BMW X1 XDrive 20d 2016](https://www.gta5-mods.com/vehicles/bmw-x1-sdrive-20d-2016)
+- [Audi Q8 2020](https://www.gta5-mods.com/vehicles/audi-q8-2020)
+- [Volkswagen Amarok](https://www.gta5-mods.com/vehicles/volkswagen-amarok-add-on-replace-fivem-dev)
+- [Lexus LX570 2019 Add-On / Animated](https://www.gta5-mods.com/vehicles/lexus-lx570-2019-add-on-animated)
+- [Toyota Fortuner 2022 Add-On | Extras | Tuning](https://www.gta5-mods.com/vehicles/toyota-fortuner-2022-add-on-tuning-extras-death-assassin-mods)
+- [2019 Range Rover Velar Add-On](https://www.gta5-mods.com/vehicles/2018-range-rover-velar)
+- [Audi Q7 2020 Add-On | Extras](https://www.gta5-mods.com/vehicles/audi-q7-2020)
+- [Lincoln Navigator (U554) '2017 Add-On | AO | Template](https://www.gta5-mods.com/vehicles/lincoln-navigator-u554-2017-add-on-ao-template)
 
+# Luxury Cars (7 cars)
 
-# Classic Cars (6 cars)
-- [1970 Chevrolet Camaro Z28](https://www.gta5-mods.com/vehicles/chevrolet-camaro-z28-70-add-on)
+- [Volvo V60 Add-On | Tuning](https://www.gta5-mods.com/vehicles/volvo-v60-add-on-tuning-fivem)
+- [Lexus IS350 F-Sport 2021](https://www.gta5-mods.com/vehicles/2021-lexus-is350-f-sport-fivem-addon)
+- [2014 Rolls-Royce Wraith Add-On | Animated | Extras | Template](https://www.gta5-mods.com/vehicles/2014-rolls-royce-wraith-add-on-animated-extras-template)
+- [Rolls-Royce Phantom (VIII) Aphrodisiac 2021](https://www.gta5-mods.com/vehicles/rolls-royce-phantom-viii-aphrodisiac-2021-add-on-v1-0)
+- [2014 Volkswagen Phaeton W12](https://www.gta5-mods.com/vehicles/2014-volkswagen-phaeton-w12)
+- [Polestar One (Polestar 1) 2020 Add-On | Tuning](https://www.gta5-mods.com/vehicles/polestar-one-polestar-1-2020-tuning)
+- [2016 Volkswagen Passat B8 Add-On / Replace | Wipers](https://www.gta5-mods.com/vehicles/2016-volkswagen-passat-b8-add-on)
+
+# Classic Cars (7 cars)
+
 - [1978 Cadillac Fleetwood Brougham D'elegance](https://www.gta5-mods.com/vehicles/1978-cadillac-fleetwood-brougham-d-elegance-add-on-tuning-wheels-template)
 - [1976 Lamborghini Jarama](https://www.gta5-mods.com/vehicles/lamborghini-jarama-76-add-on-animated-lights-extras-dirt)
 - [Ferrari Testarossa 1986](https://www.gta5-mods.com/vehicles/ferrari-testarossa-1986-add-on)
 - [1987 Ferrari F120 (F-40)](https://www.gta5-mods.com/vehicles/1987-ferrari-f120-f-40-eu-spec-hq-lods-animations)
 - [1976 Lamborghini Jarama](https://www.gta5-mods.com/vehicles/lamborghini-jarama-76-add-on-animated-lights-extras-dirt)
+- [Lincoln Town Car 1979 Limousine](https://www.gta5-mods.com/vehicles/lincoln-town-car-1979-limousine-add-on)
+- [Lotus Esprit S1 Add-On | VehFuncs V](https://www.gta5-mods.com/vehicles/lotus-esprit-s1-add-on-vehfuncs-v)
 
-# Muscle Cars (12 cars)
+# Muscle Cars (11 cars)
 
 - [1970 Dodge Challenger R/T Hemi](https://www.gta5-mods.com/vehicles/1970-dodge-challenger-r-t-hemi-add-on-tuning-template)
 - [Chevrolet Camaro SS '69](https://www.gta5-mods.com/vehicles/chevrolet-camaro-ss-69-add-on-extras-tuning-template)
@@ -127,13 +157,12 @@
 - [1967 Ford Mustang Fastback](https://www.gta5-mods.com/vehicles/1967-ford-mustang-fastback-add-on)
 - [2015 Ford Mustang](https://www.gta5-mods.com/vehicles/2015-ford-mustang-hq-wbody-kit-shelbykit-animated)
 - [Chevrolet Monza Classic 1990](https://pt.gta5-mods.com/vehicles/chevrolet-monza-sl-e-1990)
-- [1993 Ford SVT Cobra R](https://pt.gta5-mods.com/vehicles/1993-ford-svt-cobra-r)
 - [1989 Lotus Carlton](https://www.gta5-mods.com/vehicles/dtd-1989-lotus-carlton-add-on)
 - [2018 Dodge Challenger SRT Demon](https://www.gta5-mods.com/vehicles/2018-dodge-challenger-srt-demon-libertywalk-add-on)
 - [2016 Dodge Charger SRT Hellcat](https://www.gta5-mods.com/vehicles/2016-dodge-charger-srt-hellcat-add-on-replace-animated-template-analog-digital-dials)
 - [2020 Dodge Charger SRT Hellcat Daytona](https://www.gta5-mods.com/vehicles/2020-dodge-charger-srt-hellcat-daytona-50th-anniversary-edition-add-on)
 
-# Car Packs (165 cars)
+# Car Packs (182 cars)
 
 - [Need for Speed Classic's Pack](https://www.gta5-mods.com/vehicles/need-for-speed-classic-s-pack-addon-tuning-devildexter23) [5 cars]
 - [RealCars03 DLC car pack](https://www.gta5-mods.com/vehicles/realcars03-dlc-from-gtav-mods-as-new-addon) [8 cars]
@@ -143,4 +172,4 @@
 - [Classic Cars Pack](https://www.gta5-mods.com/vehicles/classic-cars-pack-vol-2) [17 cars]
 - [Ubludock Car Pack 50 Add-Ons](https://www.gta5-mods.com/vehicles/ubludock-vehicles-pack-add-on) [50 cars]
 - [Classic Cars Pack Vol-1](https://www.gta5-mods.com/vehicles/greenaid-s-classic-cars-pack-add-on) [57 cars]
-- [Motokorp's Experimental Car Pack](https://www.gtainside.com/en/gta5/cars/147659-motokorp-s-experimental-car-pack-add-on/) [12 cars] 
+- [Retro Emergency Vehicles Pack](https://www.gta5-mods.com/vehicles/lore-friendly-retro-emergency-vehicles-pack) [17 cars]
