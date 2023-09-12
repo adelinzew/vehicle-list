@@ -162,7 +162,7 @@
 - [2016 Dodge Charger SRT Hellcat](https://www.gta5-mods.com/vehicles/2016-dodge-charger-srt-hellcat-add-on-replace-animated-template-analog-digital-dials)
 - [2020 Dodge Charger SRT Hellcat Daytona](https://www.gta5-mods.com/vehicles/2020-dodge-charger-srt-hellcat-daytona-50th-anniversary-edition-add-on)
 
-# Car Packs (204 cars)
+# Car Packs (212 cars)
 
 - [Need for Speed Classic's Pack](https://www.gta5-mods.com/vehicles/need-for-speed-classic-s-pack-addon-tuning-devildexter23) [5 cars]
 - [RealCars03 DLC car pack](https://www.gta5-mods.com/vehicles/realcars03-dlc-from-gtav-mods-as-new-addon) [8 cars]
@@ -174,3 +174,4 @@
 - [Classic Cars Pack Vol-1](https://www.gta5-mods.com/vehicles/greenaid-s-classic-cars-pack-add-on) [57 cars]
 - [Retro Emergency Vehicles Pack](https://www.gta5-mods.com/vehicles/lore-friendly-retro-emergency-vehicles-pack) [17 cars]
 - [The Consumer Pack Add-On | Extras | LODs](https://www.gta5-mods.com/vehicles/the-consumer-pack-add-on-extras-lods) [22 cars]
+- [Volkswagen Golf Add-On Pack Mk1-Mk7](https://www.gta5-mods.com/vehicles/vw-golf-add-on-pack) [8 cars]
