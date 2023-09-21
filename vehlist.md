@@ -3,7 +3,7 @@
 -->
 
 
-# Sport Cars (104 cars)
+# Sport Cars (100 cars)
 
 - [1999 Lotus Elise Sport 190](https://www.gta5-mods.com/vehicles/1999-lotus-elise-sport-190-add-on-extras-template-lods-vehfuncs-cipherog) - tested 
 - [Ford GT40 Mk I '64](https://www.gta5-mods.com/vehicles/ford-gt40-mk-i-64-add-on-template-extras) - tested
@@ -35,11 +35,7 @@
 - [Lamborghini Centenario Roadster LP 770-4](https://www.gta5-mods.com/vehicles/lamborghini-centenario-roadster) - tested
 - [BMW E30 Touring](https://www.gta5-mods.com/vehicles/bmw-e30-touring) - tested
 - [Audi RS5](https://www.gta5-mods.com/vehicles/audi-rs5-adon-fivem) - tested
-- [Maserati Levante Novitec](https://www.gta5-mods.com/vehicles/maserati-levante-novitec-add-on)
-- [Audi Q8 50TDI 2020](https://www.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem)
-- [Toyota Supra MKIV Tuned](https://www.gta5-mods.com/vehicles/toyota-supra-mkiv-tuned-add-on-tuning)
-- [Nissan GT-R Nismo](https://www.gta5-mods.com/vehicles/nissan-gt-r-nismo-add-on-tuning)
-- [Lamborghini Gallardo LP570-4 Superleggera](https://www.gta5-mods.com/vehicles/lamborghini-gallardo-lp570-4-superleggera-add-on-tunable)
+- [Audi Q8 50TDI 2020](https://www.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem) - tested
 - [2021 Bugatti Super Sport 300+](https://www.gta5-mods.com/vehicles/2021-bugatti-supersport-300-add-on)
 - [2021 Audi RS7 (C8) Sportback](https://www.gta5-mods.com/vehicles/2021-audi-rs7-c8-sportback)
 - [TopCar G63 INFERNO](https://www.gta5-mods.com/vehicles/2019-topcar-g63-inferno)
