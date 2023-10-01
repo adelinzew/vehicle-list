@@ -3,7 +3,7 @@
 -->
 
 
-# Sport Cars (100 cars)
+# Sport Cars (96 cars)
 
 - [1999 Lotus Elise Sport 190](https://www.gta5-mods.com/vehicles/1999-lotus-elise-sport-190-add-on-extras-template-lods-vehfuncs-cipherog) - tested 
 - [Ford GT40 Mk I '64](https://www.gta5-mods.com/vehicles/ford-gt40-mk-i-64-add-on-template-extras) - tested
@@ -36,24 +36,21 @@
 - [BMW E30 Touring](https://www.gta5-mods.com/vehicles/bmw-e30-touring) - tested
 - [Audi RS5](https://www.gta5-mods.com/vehicles/audi-rs5-adon-fivem) - tested
 - [Audi Q8 50TDI 2020](https://www.gta5-mods.com/vehicles/audi-q8-50tdi-2020-add-on-fivem) - tested
-- [2021 Bugatti Super Sport 300+](https://www.gta5-mods.com/vehicles/2021-bugatti-supersport-300-add-on)
-- [2021 Audi RS7 (C8) Sportback](https://www.gta5-mods.com/vehicles/2021-audi-rs7-c8-sportback)
-- [TopCar G63 INFERNO](https://www.gta5-mods.com/vehicles/2019-topcar-g63-inferno)
-- [2022 Lamborghini Countach LPI800-4](https://www.gta5-mods.com/vehicles/2022-lamborghini-countach-lpi800-4-add-on-vehfuncs-v)
-- [2021 Audi RS6-R ABT](https://www.gta5-mods.com/vehicles/2021-audi-rs6-r-abt)
-- [2018 Lamborghini Huracan](https://www.gta5-mods.com/vehicles/2018-lamborghini-huracan-performante-add-on-replace)
-- [2015 Lamborghini Aventador LP700-4](https://www.gta5-mods.com/vehicles/2015-lamborghini-aventador-lp700-4-stock-interior-color-hq-animated-engine-livery-tunable-autospoiler)
-- [Noble M600 2010](https://www.gta5-mods.com/vehicles/noble-m600-2010-add-on-animated-template-tuning)
-- [2017 McLaren 720S](https://www.gta5-mods.com/vehicles/2017-mclaren-720s-add-on-tuning-hq)
-- [2020 Koenigsegg Jesko](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-engine)
-- [Lamborghini Diablo SV 1995-2001](https://www.gta5-mods.com/vehicles/lamborghini-diablo-sv-1995-2001-add-on-template-extras)
-- [2018 Pagani Huayra Roadster](https://www.gta5-mods.com/vehicles/2018-pagani-huayra-roadster-aero-flaps-add-on)
-- [2010 Lexus LFA](https://www.gta5-mods.com/vehicles/2010-lexus-lfa)
-- [2020 Ferrari SF90 Stradale](https://www.gta5-mods.com/vehicles/2020-ferrari-sf90-stradale-add-on-lods-template)
-- [Bugatti Veyron Vitesse](https://www.gta5-mods.com/vehicles/bugatti-veyron-vitesse-add-on-autospoiler-tuning-wheels-extras-template)
-- [2010 Lamborghini Murcielago LP670-4](https://www.gta5-mods.com/vehicles/2010-lamborghini-murcielago-lp670-4)
-- [2015 Ferrari LaFerrari](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler)
-- [2015 Koenigsegg Agera One:1](https://www.gta5-mods.com/vehicles/2014-koenigsegg-agera-r-hq-digitaldials-one-1-tuning-set)
+- [2021 Bugatti Super Sport 300+](https://www.gta5-mods.com/vehicles/2021-bugatti-supersport-300-add-on) - tested
+- [2021 Audi RS7 (C8) Sportback](https://www.gta5-mods.com/vehicles/2021-audi-rs7-c8-sportback) - tested
+- [2022 Lamborghini Countach LPI800-4](https://www.gta5-mods.com/vehicles/2022-lamborghini-countach-lpi800-4-add-on-vehfuncs-v) - tested
+- [2021 Audi RS6-R ABT](https://www.gta5-mods.com/vehicles/2021-audi-rs6-r-abt) - tested
+- [2018 Lamborghini Huracan](https://www.gta5-mods.com/vehicles/2018-lamborghini-huracan-performante-add-on-replace) - tested
+- [Noble M600 2010](https://www.gta5-mods.com/vehicles/noble-m600-2010-add-on-animated-template-tuning) - tested
+- [2017 McLaren 720S](https://www.gta5-mods.com/vehicles/2017-mclaren-720s-add-on-tuning-hq) - tested
+- [2020 Koenigsegg Jesko](https://www.gta5-mods.com/vehicles/2020-koenigsegg-jesko-add-on-engine) - tested
+- [Lamborghini Diablo SV 1995-2001](https://www.gta5-mods.com/vehicles/lamborghini-diablo-sv-1995-2001-add-on-template-extras) - tested
+- [2018 Pagani Huayra Roadster](https://www.gta5-mods.com/vehicles/2018-pagani-huayra-roadster-aero-flaps-add-on) - tested
+- [2010 Lexus LFA](https://www.gta5-mods.com/vehicles/2010-lexus-lfa) - tested
+- [2020 Ferrari SF90 Stradale](https://www.gta5-mods.com/vehicles/2020-ferrari-sf90-stradale-add-on-lods-template) - tested
+- [Bugatti Veyron Vitesse](https://www.gta5-mods.com/vehicles/bugatti-veyron-vitesse-add-on-autospoiler-tuning-wheels-extras-template) - tested
+- [2010 Lamborghini Murcielago LP670-4](https://www.gta5-mods.com/vehicles/2010-lamborghini-murcielago-lp670-4) - tested
+- [2015 Ferrari LaFerrari](https://www.gta5-mods.com/vehicles/2015-ferrari-laferrari-hq-autospoiler) - tested
 - [2015 Lamborghini Aventador LP700-4](https://www.gta5-mods.com/vehicles/2015-lamborghini-aventador-lp700-4-stock-interior-color-hq-animated-engine-livery-tunable-autospoiler)
 - [Nissan Skyline GT-R (R34) drift handling](https://www.gta5-mods.com/vehicles/2002-nissan-skyline-gt-r-r34)
 - [BMW M3 GTR E46 drift handling](https://www.gta5-mods.com/vehicles/bmw-m3-gtr-e46-most-wanted)
@@ -64,7 +61,6 @@
 - [Nissan 2000GT-R drift handling](https://www.gta5-mods.com/vehicles/nissan-2000gt-r-beta)
 - [Nissan 370z drift handling](https://www.gta5-mods.com/vehicles/nissan-370z)
 - [Mitsubishi Lancer Evo X drift handling](https://www.gta5-mods.com/vehicles/mitsubishi-lancer-evo-x)
-- [Lexus IS300 drift handling](https://www.gta5-mods.com/vehicles/lexus-is300-tunable)
 - [Nissan 240SX drift handling](https://www.gta5-mods.com/vehicles/nissan-240sx-tunable)
 - [Nissan Silvia S13 drift handling](https://www.gta5-mods.com/vehicles/nissan-240sx-s13)
 - [Ford Mustang GT drift handling](https://www.gta5-mods.com/vehicles/ford-mustang-gt-rocketb-wide-body)
@@ -94,7 +90,7 @@
 - [2019 McLaren 720S Spider](https://www.gta5-mods.com/vehicles/2019-mclaren-720s-spider-add-on-fivem-tuning)
 - [Pagani Imola](https://www.gta5-mods.com/vehicles/pagani-imola-add-on-tuning)
 - [Audi RS5 Coupe 2020](https://www.gta5-mods.com/vehicles/audi-rs5-coupe-20)
-- [2019 Audi RS4 Avant Add-On | FiveM | Tuning](https://www.gta5-mods.com/vehicles/2019-audi-rs4-avant-add-on-tuning-dmtrs)
+- [2019 Audi RS4 Avant Add-On | FiveM | Tuning](https://www.gta5-mods.com/vehicles/2019-audi-rs4-avant-add-on-tuning-dmtrs) - tested
 - [Saleen S7 2004 Add-On](https://www.gta5-mods.com/vehicles/saleen-s7-2004-add-on)
 - [2020 Ferrari Roma Add-On](https://www.gta5-mods.com/vehicles/2020-ferrari-roma-add-on-harsoul-mods)
 - [2005 Mercedes-Benz SLR McLaren Add-On | Template | Extras](https://www.gta5-mods.com/vehicles/2005-mercedes-benz-slr-mclaren-add-on-template-extras)
